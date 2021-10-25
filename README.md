@@ -1,2 +1,2 @@
 # TER
-Probando la herramienta Github
+Probando la herramienta GitHub.
